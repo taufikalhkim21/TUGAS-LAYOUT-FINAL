@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dukungan</title>
+    <link rel="stylesheet" href="../CSS/about.css">
+</head>
+<body>
+    <div class="container-about">
+        <div class="logo">
+            <img src="../IMAGE/logo.png" alt="#">
+        </div>
+        <h1>Dukungan</h1>
+</body>
+</html>

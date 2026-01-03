@@ -1,0 +1,84 @@
+
+.content-wrapper {
+    padding: 30px;
+    width: 100%;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+
+.form-box {
+    width: 400px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+
+.form-box input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.form-box button {
+    background: rgb(117, 40, 40);
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+table {
+    width: 100%;
+    background: white;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+    
+}
+
+th {
+    background: rgb(117, 40, 40);
+    color: white;
+}
+
+tr:nth-child(even) {
+    background: #f4f4f4;
+}
+
+
+.aksi a {
+    padding: 6px 10px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.edit {
+    background: #007bff;
+}
+
+.hapus {
+    background: #dc3545;
+}
+
+.main-content {
+    flex: 1;          
+    width: 100%;
+    align-items: center;
+}
